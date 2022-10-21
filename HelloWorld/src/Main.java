@@ -4,6 +4,8 @@ public class Main {
         
         int i = 20;
 
+        i = 30;
+
         //Nuevo Desarrollo
         int modificado = 30;
 
